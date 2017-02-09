@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoC", "IoC\IoC.csproj", "{E4B523F9-3ED6-4B51-87F4-56D1CA3E015D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IocContainerTest", "IocContainerTest\IocContainerTest.csproj", "{E4B523F9-3ED6-4B51-87F4-56D1CA3E015D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunnerApp", "RunnerApp\RunnerApp.csproj", "{F608805B-F57E-43F9-8BEA-2BA94435CEC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E4B523F9-3ED6-4B51-87F4-56D1CA3E015D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4B523F9-3ED6-4B51-87F4-56D1CA3E015D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4B523F9-3ED6-4B51-87F4-56D1CA3E015D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F608805B-F57E-43F9-8BEA-2BA94435CEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F608805B-F57E-43F9-8BEA-2BA94435CEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F608805B-F57E-43F9-8BEA-2BA94435CEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F608805B-F57E-43F9-8BEA-2BA94435CEC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
